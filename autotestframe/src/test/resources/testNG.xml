@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="Example" verbose="1" parallel="false" thread-count="1">
+    <test name="example">
+        <classes>
+            <class name="runner.Runners">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
